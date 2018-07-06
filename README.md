@@ -117,3 +117,7 @@ License
 -------
 
 2-clause BSD-style license.
+
+seebigsea: 
+void* get_module_base(pid_t pid,const char* module_name);
+from https://www.cnblogs.com/aliflycoris/p/5787171.html
